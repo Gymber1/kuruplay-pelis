@@ -26,6 +26,7 @@ Hecha para manejarla con el mando.
 | ⏭️ **Omitir intro** | En las series, «Omitir intro» y «Omitir resumen» con un solo OK, y «Siguiente episodio» en los créditos. |
 | ⏩ **Adelantar rápido** | ◀ ▶ mueven la barra de tiempo; manteniendo, acelera. |
 | 📺 **TV en vivo** | Canales abiertos por país y categoría, con vista previa. |
+| 📡 **Canales** | Todos los canales juntos (más de 3000): por marca (ESPN, Fox, TNT, HBO…), tema y país, con buscador y secciones fijadas. |
 | 🔎 **Buscar** | Con teclado en pantalla o por voz. |
 | ❤️ **Mi lista y Seguir viendo** | Se guardan en la propia tele. |
 | 🔄 **Se actualiza sola** | Al abrir avisa de la versión nueva; en Ajustes → Buscar actualización se descarga e instala. |
