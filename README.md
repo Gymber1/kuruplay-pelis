@@ -16,7 +16,7 @@ Hecha para manejarla con el mando, el dedo o el ratón.
 | Dónde | Archivo |
 |---|---|
 | 📺 **Android TV / Google TV** | [KuruPelisTV.apk](https://github.com/Gymber1/kuruplay-pelis/releases/latest/download/KuruPelisTV.apk) |
-| 📱 **Celular Android** | [KuruPelisMovil.apk](https://github.com/Gymber1/kuruplay-pelis/releases/latest/download/KuruPelisMovil.apk) |
+| 📱 **Celular Android** | [Movil-KuruPelis.apk](https://github.com/Gymber1/kuruplay-pelis/releases/latest/download/Movil-KuruPelis.apk) |
 | 💻 **PC con Windows** | [KuruPelis-PC.exe](https://github.com/Gymber1/kuruplay-pelis/releases/latest/download/KuruPelis-PC.exe) |
 | 📺 **Tele Samsung** (se instala desde el PC) | [KuruPelis-Instalar-Samsung.exe](https://github.com/Gymber1/kuruplay-pelis/releases/latest/download/KuruPelis-Instalar-Samsung.exe) |
 
@@ -59,7 +59,7 @@ Las siguientes versiones se instalan desde la propia app: **Ajustes → Buscar a
 
 ## En un celular Android
 
-Descarga [KuruPelisMovil.apk](https://github.com/Gymber1/kuruplay-pelis/releases/latest/download/KuruPelisMovil.apk) en el celular y ábrelo (permite «instalar apps desconocidas» para el navegador). Es otra app, pensada para el dedo: puede estar instalada a la vez que la de la tele.
+Descarga [Movil-KuruPelis.apk](https://github.com/Gymber1/kuruplay-pelis/releases/latest/download/Movil-KuruPelis.apk) en el celular y ábrelo (permite «instalar apps desconocidas» para el navegador). Es otra app, pensada para el dedo: puede estar instalada a la vez que la de la tele.
 
 ## En el PC (Windows)
 
